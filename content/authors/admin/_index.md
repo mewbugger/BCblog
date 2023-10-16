@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Barry Crude (王乐岩)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: 西皮皮战士
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: 华东理工大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
